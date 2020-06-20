@@ -1,4 +1,4 @@
-#Aula de bootstraps
+# Aula de bootstraps.
 
 Minha páginha web desenvolvida no curso HTML5, CSS 3 com Bootstrap.
 Na in boocamp da  [Digital Innovation One][DIO].
@@ -30,7 +30,7 @@ Na in boocamp da  [Digital Innovation One][DIO].
 ```
 
 
-##Imagem
+##Imagem  
 
 ![Página Web](https://i.imgur.com/RvoUYhi.png "Página Web")
 
