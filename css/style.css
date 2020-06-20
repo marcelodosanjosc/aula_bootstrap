@@ -1,0 +1,14 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+#quem-somos{
+    background-color: grey;
+}
+.quem-somos{
+    background-color: grey;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+}
